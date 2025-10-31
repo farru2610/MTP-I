@@ -1,1 +1,1 @@
-# MTP-I
+# Survey of Polynomial Commitment Schemes
